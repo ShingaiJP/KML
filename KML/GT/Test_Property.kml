@@ -1,0 +1,2377 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Test_Property" id="Test_Property">
+	<SimpleField name="AG_CAD_ID" type="float"></SimpleField>
+	<SimpleField name="SG_CODE" type="string"></SimpleField>
+	<SimpleField name="ERF_NO" type="string"></SimpleField>
+	<SimpleField name="PORTION" type="string"></SimpleField>
+	<SimpleField name="MIN_REGION" type="string"></SimpleField>
+	<SimpleField name="X" type="float"></SimpleField>
+	<SimpleField name="Y" type="float"></SimpleField>
+	<SimpleField name="SGTOWN" type="string"></SimpleField>
+	<SimpleField name="AG_SUB_ID" type="float"></SimpleField>
+	<SimpleField name="SUBURB" type="string"></SimpleField>
+	<SimpleField name="TOWN" type="string"></SimpleField>
+	<SimpleField name="Book1_csv_" type="int"></SimpleField>
+</Schema>
+<Folder><name>Test_Property</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">307305</SimpleData>
+		<SimpleData name="SG_CODE">T0IR07250000001600017</SimpleData>
+		<SimpleData name="ERF_NO">16</SimpleData>
+		<SimpleData name="PORTION">00017</SimpleData>
+		<SimpleData name="MIN_REGION">WESTGATE</SimpleData>
+		<SimpleData name="X">28.031796692120999</SimpleData>
+		<SimpleData name="Y">-26.205839428547002</SimpleData>
+		<SimpleData name="AG_SUB_ID">16159</SimpleData>
+		<SimpleData name="SUBURB">Turffontein 96-Ir</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">307305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0316369858035,-26.2057510011725 28.0319459915617,-26.2056850020507 28.0319519918331,-26.2059320015562 28.0316499891314,-26.2059920024908 28.0316369858035,-26.2057510011725</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">599096</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000030700000</SimpleData>
+		<SimpleData name="ERF_NO">307</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.052501967604002</SimpleData>
+		<SimpleData name="Y">-26.207190899214002</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">599096</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0524139612322,-26.2071293769794 28.0525701737777,-26.2071115031439 28.0525899582343,-26.2072524414824 28.0524337703474,-26.2072702835479 28.0524139612322,-26.2071293769794</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">599097</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000030800000</SimpleData>
+		<SimpleData name="ERF_NO">308</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.052521763392001</SimpleData>
+		<SimpleData name="Y">-26.207331823381999</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">599097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0524337374692,-26.2072702835479 28.0525899911125,-26.2072524414824 28.0526097837886,-26.2073933480508 28.052453554804,-26.2074112218864 28.0524337374692,-26.2072702835479</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">600284</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000037300000</SimpleData>
+		<SimpleData name="ERF_NO">373</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.052347957108999</SimpleData>
+		<SimpleData name="Y">-26.208353996319001</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">600284</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0522599597457,-26.2082924725083 28.0524161476325,-26.2082745986727 28.0524359567477,-26.2084155370112 28.0522797524218,-26.2084333790767 28.0522599597457,-26.2082924725083</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">600286</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000038000000</SimpleData>
+		<SimpleData name="ERF_NO">380</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.052640599920998</SimpleData>
+		<SimpleData name="Y">-26.208177358701001</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">600286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.052552583941,-26.2081158182687 28.052708804706,-26.2080979571412 28.0527286138212,-26.2082389081877 28.0525723930562,-26.2082567502532 28.052552583941,-26.2081158182687</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">600302</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000039200000</SimpleData>
+		<SimpleData name="ERF_NO">392</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.054212299123002</SimpleData>
+		<SimpleData name="Y">-26.207782920058001</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">600302</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0541377405744,-26.2076482519472 28.054247257857,-26.2076357218357 28.0542868678679,-26.2079175985127 28.0541773341462,-26.2079300968542 28.0541377405744,-26.2076482519472</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">600498</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000038100000</SimpleData>
+		<SimpleData name="ERF_NO">381</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.052660408705002</SimpleData>
+		<SimpleData name="Y">-26.208318295961000</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">600498</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0525723930562,-26.2082567502532 28.0527286138212,-26.2082389081877 28.0527484393755,-26.2083798147562 28.0525921939518,-26.2083976885917 28.0525723930562,-26.2082567502532</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">600499</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000038200000</SimpleData>
+		<SimpleData name="ERF_NO">382</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.052806730406001</SimpleData>
+		<SimpleData name="Y">-26.208229962550998</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">600499</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.052708804706,-26.2080979571412 28.0528650501296,-26.2080801277837 28.0529046437014,-26.2083619726907 28.0527484393755,-26.2083798147562 28.0527286138212,-26.2082389081877 28.052708804706,-26.2080979571412</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">603046</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01860000031400000</SimpleData>
+		<SimpleData name="ERF_NO">314</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">DOORNFONTEIN</SimpleData>
+		<SimpleData name="X">28.054625103220001</SimpleData>
+		<SimpleData name="Y">-26.196503719372000</SimpleData>
+		<SimpleData name="SGTOWN">Doornfontein</SimpleData>
+		<SimpleData name="AG_SUB_ID">11521</SimpleData>
+		<SimpleData name="SUBURB">Doornfontein</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">603046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0544565193774,-26.1964648478426 28.0547626482931,-26.1964069119618 28.0547942113647,-26.1965426145945 28.0544929730811,-26.1965991907167 28.0544866769059,-26.1966003789169 28.0544565193774,-26.1964648478426</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">603431</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01860000062900000</SimpleData>
+		<SimpleData name="ERF_NO">629</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">DOORNFONTEIN</SimpleData>
+		<SimpleData name="X">28.053174868873000</SimpleData>
+		<SimpleData name="Y">-26.197933634742000</SimpleData>
+		<SimpleData name="SGTOWN">Doornfontein</SimpleData>
+		<SimpleData name="AG_SUB_ID">11521</SimpleData>
+		<SimpleData name="SUBURB">Doornfontein</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">603431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0527285234061,-26.1973398143467 28.0530355482528,-26.1973317511055 28.0533552558649,-26.1973384418801 28.0536183800957,-26.1984743168219 28.0533178980107,-26.1985312551227 28.053018361174,-26.1985879710332 28.0527285234061,-26.1973398143467</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">617918</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000030300000</SimpleData>
+		<SimpleData name="ERF_NO">303</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.051926585543001</SimpleData>
+		<SimpleData name="Y">-26.207614614701999</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">617918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0518286799635,-26.2074826282724 28.051984908948,-26.2074647671449 28.0520244860807,-26.2077465993438 28.0518682735352,-26.2077644731793 28.0518286799635,-26.2074826282724</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">617919</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000030400000</SimpleData>
+		<SimpleData name="ERF_NO">304</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.052082809952001</SimpleData>
+		<SimpleData name="Y">-26.207596759297001</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">617919</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.051984908948,-26.2074647671449 28.052141113274,-26.2074469123713 28.0521609306087,-26.2075878507099 28.0521807068457,-26.2077287509243 28.0520244860807,-26.2077465993438 28.051984908948,-26.2074647671449</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">617920</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000030500000</SimpleData>
+		<SimpleData name="ERF_NO">305</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.052229111534000</SimpleData>
+		<SimpleData name="Y">-26.207508449976000</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">617920</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.052141113274,-26.2074469123713 28.0522973011608,-26.2074290639519 28.0523171184955,-26.2075699705203 28.0521609306087,-26.2075878507099 28.052141113274,-26.2074469123713</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">617921</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000030600000</SimpleData>
+		<SimpleData name="ERF_NO">306</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.052248922406001</SimpleData>
+		<SimpleData name="Y">-26.207649372797999</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">617921</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0521609306087,-26.2075878507099 28.0523171184955,-26.2075699705203 28.0523369276108,-26.2077109088588 28.0521807068457,-26.2077287509243 28.0521609306087,-26.2075878507099</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">642787</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000084800000</SimpleData>
+		<SimpleData name="ERF_NO">848</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.044200528800999</SimpleData>
+		<SimpleData name="Y">-26.208570724720001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">642787</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0440326752692,-26.2085183195081 28.0443485854493,-26.2084822223664 28.0443683616863,-26.2086231607049 28.0442086722713,-26.2086413776571 28.0440524597258,-26.2086592070145 28.0440326752692,-26.2085183195081</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">642792</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000094300000</SimpleData>
+		<SimpleData name="ERF_NO">943</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.044713665181000</SimpleData>
+		<SimpleData name="Y">-26.208941678403001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">642792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0446257075735,-26.2088801614252 28.0447819612168,-26.2088622558196 28.0448016141605,-26.2090032259282 28.0446453605173,-26.2090210807017 28.0446257075735,-26.2088801614252</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">642797</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000094800000</SimpleData>
+		<SimpleData name="ERF_NO">948</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.044889532265000</SimpleData>
+		<SimpleData name="Y">-26.209064786270002</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">642797</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0448016141605,-26.2090032259282 28.0449578513646,-26.2089853775087 28.0449774549911,-26.2091263476173 28.0448212095674,-26.2091441896827 28.0448016141605,-26.2090032259282</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">642876</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000117600000</SimpleData>
+		<SimpleData name="ERF_NO">1176</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.041366541839000</SimpleData>
+		<SimpleData name="Y">-26.207390997929000</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">642876</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0411905193117,-26.2072679135014 28.0415029855004,-26.2072322230164 28.0415425544135,-26.2075140806314 28.0412301128835,-26.2075497838244 28.0411905193117,-26.2072679135014</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">644368</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000085200000</SimpleData>
+		<SimpleData name="ERF_NO">852</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.044298412267000</SimpleData>
+		<SimpleData name="Y">-26.208702732129002</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">644368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0442086722713,-26.2086413776571 28.0443683616863,-26.2086231607049 28.044388162582,-26.2087640672733 28.0442284567278,-26.2087823159956 28.0442086722713,-26.2086413776571</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">644461</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000118800000</SimpleData>
+		<SimpleData name="ERF_NO">1188</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.044313631662000</SimpleData>
+		<SimpleData name="Y">-26.205536229532001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">644461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0441296741774,-26.2053567855647 28.0444421485856,-26.2053210633096 28.04449758123,-26.2057156919283 28.0441851150413,-26.2057513760592 28.0441296741774,-26.2053567855647</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">644480</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000064800000</SimpleData>
+		<SimpleData name="ERF_NO">648</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.048680038762001</SimpleData>
+		<SimpleData name="Y">-26.208022854540999</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">644480</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0485920513681,-26.2079613458848 28.0487482392549,-26.2079434720493 28.0487680237115,-26.2080843786177 28.0486118358247,-26.2081022206832 28.0485920513681,-26.2079613458848</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">644586</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000098800000</SimpleData>
+		<SimpleData name="ERF_NO">988</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.043159507091001</SimpleData>
+		<SimpleData name="Y">-26.206247967759001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">644586</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0430704865407,-26.2061793759485 28.0432267237449,-26.206161533883 28.0432485219911,-26.2063165527119 28.0430923012261,-26.2063344074854 28.0430704865407,-26.2061793759485</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">645866</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000060300000</SimpleData>
+		<SimpleData name="ERF_NO">603</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.045395689526000</SimpleData>
+		<SimpleData name="Y">-26.208147840361001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">645866</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0453076754075,-26.2080862848213 28.0454639290507,-26.2080684427558 28.0454837052878,-26.2082093810943 28.0453274598641,-26.2082272549299 28.0453076754075,-26.2080862848213</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">645889</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000126500000</SimpleData>
+		<SimpleData name="ERF_NO">1265</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.040526260903000</SimpleData>
+		<SimpleData name="Y">-26.208417720360000</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">645889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0402035650794,-26.2083830044702 28.0403603940911,-26.2083650988646 28.0405166477344,-26.208347225029 28.040672893158,-26.2083293766095 28.0408291468013,-26.208311534544 28.0408489559165,-26.2084524411125 28.0406927104928,-26.208470283178 28.0405364404105,-26.2084881570135 28.0403801949868,-26.208505973663 28.0402233330969,-26.2085239110386 28.0402035650794,-26.2083830044702</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">646266</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000060400000</SimpleData>
+		<SimpleData name="ERF_NO">604</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.045561818772999</SimpleData>
+		<SimpleData name="Y">-26.208200454715001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">646266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0454639290507,-26.2080684427558 28.0456201415962,-26.2080505943363 28.0456597105093,-26.2083324710133 28.0455035061834,-26.2083503130788 28.0454837052878,-26.2082093810943 28.0454639290507,-26.2080684427558</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">658408</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04690000039100000</SimpleData>
+		<SimpleData name="ERF_NO">391</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">NEWTOWN</SimpleData>
+		<SimpleData name="X">28.036355276702000</SimpleData>
+		<SimpleData name="Y">-26.202527934275999</SimpleData>
+		<SimpleData name="SGTOWN">Newtown</SimpleData>
+		<SimpleData name="AG_SUB_ID">15864</SimpleData>
+		<SimpleData name="SUBURB">Newtown</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">658408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0362582715521,-26.2024021890816 28.0364145005367,-26.2023843787861 28.0364522858075,-26.2026536618115 28.0362960486033,-26.202671503877 28.0362582715521,-26.2024021890816</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">658834</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04690000060400000</SimpleData>
+		<SimpleData name="ERF_NO">604</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">NEWTOWN</SimpleData>
+		<SimpleData name="X">28.034843900544001</SimpleData>
+		<SimpleData name="Y">-26.202064681601001</SimpleData>
+		<SimpleData name="SGTOWN">Newtown</SimpleData>
+		<SimpleData name="AG_SUB_ID">15864</SimpleData>
+		<SimpleData name="SUBURB">Newtown</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">658834</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0344130483604,-26.2021154071074 28.0345692855645,-26.2020975968119 28.0345279083505,-26.2018027071185 28.0346841126764,-26.201784877761 28.0348403005632,-26.2017670356955 28.0349965542064,-26.2017491936301 28.0352590044341,-26.2017192217558 28.0352798327735,-26.2017405648819 28.0352426475298,-26.2018709110825 28.0351984921079,-26.2020257519991 28.0351543038077,-26.2021805992697 28.0351101155076,-26.2023354401863 28.0349231125282,-26.2023567833124 28.0347668917632,-26.2023746253779 28.0346106792177,-26.2023924737973 28.0344544584527,-26.2024103031548 28.0344130483604,-26.2021154071074</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">658897</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000112900000</SimpleData>
+		<SimpleData name="ERF_NO">1129</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.044132358473000</SimpleData>
+		<SimpleData name="Y">-26.209113613860001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">658897</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0437798665736,-26.2089767868846 28.0444082347228,-26.2089050373819 28.0444478036359,-26.2091869077049 28.0444408170185,-26.2093044378635 28.0442797056213,-26.209296190356 28.0438210793967,-26.2092726614499 28.0437798665736,-26.2089767868846</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">659097</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000106400000</SimpleData>
+		<SimpleData name="ERF_NO">1064</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.044160527338999</SimpleData>
+		<SimpleData name="Y">-26.208288136288999</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">659097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.043997364083,-26.2082359726342 28.0443090165362,-26.2082003456894 28.0443282091852,-26.2083370014238 28.0440772992055,-26.2083656580176 28.0440790499697,-26.2083784105196 28.0440175184193,-26.2083854380567 28.043997364083,-26.2082359726342</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">660229</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000038300000</SimpleData>
+		<SimpleData name="ERF_NO">383</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.045645551568999</SimpleData>
+		<SimpleData name="Y">-26.206543331931002</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">660229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0455575497239,-26.206481782438 28.0457137704889,-26.2064639403725 28.0457335549455,-26.206604878711 28.0455773341804,-26.2066227207765 28.0455575497239,-26.206481782438</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">660230</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000038500000</SimpleData>
+		<SimpleData name="ERF_NO">385</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.045665346473001</SimpleData>
+		<SimpleData name="Y">-26.206684255582999</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">660230</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0455773341804,-26.2066227207765 28.0457335549455,-26.206604878711 28.0457533476216,-26.2067457852795 28.0455971597348,-26.206763646407 28.0455773341804,-26.2066227207765</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">660231</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000038600000</SimpleData>
+		<SimpleData name="ERF_NO">386</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.045216481324999</SimpleData>
+		<SimpleData name="Y">-26.206878769565002</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">660231</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.045128472781,-26.2068172234356 28.0452847264243,-26.2067993813701 28.0453044862222,-26.2069403133546 28.0451482407985,-26.2069581617741 28.045128472781,-26.2068172234356</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">952390</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000003400000</SimpleData>
+		<SimpleData name="ERF_NO">34</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.051441056346999</SimpleData>
+		<SimpleData name="Y">-26.204163141649001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">952390</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.051343225128,-26.2040311607648 28.0514992979411,-26.2040132551592 28.0515387846588,-26.2042952207924 28.0513829255539,-26.2043130692119 28.051343225128,-26.2040311607648</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">953028</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000152900000</SimpleData>
+		<SimpleData name="ERF_NO">1529</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044175641157999</SimpleData>
+		<SimpleData name="Y">-26.200428643163999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">953028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0440873928128,-26.2003669101058 28.0442440820921,-26.2003490362703 28.0442638829878,-26.2004903812656 28.0441072101476,-26.2005082551011 28.0440873928128,-26.2003669101058</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">953034</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000154300000</SimpleData>
+		<SimpleData name="ERF_NO">1543</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.043182612691002</SimpleData>
+		<SimpleData name="Y">-26.200542282076999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">953034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0430943972113,-26.2004804118209 28.0432514234922,-26.2004631289084 28.0432673611995,-26.2005770372802 28.0432710846556,-26.2006037559003 28.0431137378122,-26.200621693276 28.0431076142475,-26.20057694197 28.0430943972113,-26.2004804118209</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">953035</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000154500000</SimpleData>
+		<SimpleData name="ERF_NO">1545</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.043016156402999</SimpleData>
+		<SimpleData name="Y">-26.200489047885998</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">953035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0429180549882,-26.2003565975445 28.0430750812691,-26.2003391621358 28.0430943972113,-26.2004804118209 28.0431076142475,-26.20057694197 28.0431137378122,-26.200621693276 28.0429579609029,-26.2006394400313 28.0429491166672,-26.2005768466598 28.0429180549882,-26.2003565975445</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">953058</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000091200000</SimpleData>
+		<SimpleData name="ERF_NO">912</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.048303270986999</SimpleData>
+		<SimpleData name="Y">-26.201944987446002</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">953058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0482055845719,-26.2018119903299 28.0483618628737,-26.201794459611 28.048400955053,-26.2020780010392 28.0482446767511,-26.202095506342 28.0482250238073,-26.2019529731465 28.0482055845719,-26.2018119903299</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">953061</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000125800000</SimpleData>
+		<SimpleData name="ERF_NO">1258</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.042419801261001</SimpleData>
+		<SimpleData name="Y">-26.200973914490000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">953061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.042331705178,-26.2009122558873 28.0424884766528,-26.2008944074678 28.0425080802793,-26.2010345960329 28.042351645806,-26.201054331594 28.042331705178,-26.2009122558873</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">953080</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000329000000</SimpleData>
+		<SimpleData name="ERF_NO">3290</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.036071610758000</SimpleData>
+		<SimpleData name="Y">-26.192165743872000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">953080</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.035973423051,-26.1920339729369 28.036130958944,-26.192015908481 28.0361690812163,-26.1922979122382 28.0360127700363,-26.19231593857 28.0359934294354,-26.1921749430454 28.035973423051,-26.1920339729369</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">953081</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000486600000</SimpleData>
+		<SimpleData name="ERF_NO">4866</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.041844003499001</SimpleData>
+		<SimpleData name="Y">-26.200623872103002</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">953081</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0416666449581,-26.2004999758236 28.041823178066,-26.2004841289178 28.0419813304252,-26.2004636944155 28.0419972845716,-26.2005762875068 28.0420213349745,-26.2007468482489 28.0418654265524,-26.2007645950042 28.0417061892126,-26.2007827230002 28.0416863965364,-26.2006413462349 28.0416772728361,-26.2005761286565 28.0416666449581,-26.2004999758236</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">953084</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000487000000</SimpleData>
+		<SimpleData name="ERF_NO">4870</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.040813805412999</SimpleData>
+		<SimpleData name="Y">-26.199966357139001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">953084</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0407155197437,-26.1998331921662 28.0408722090231,-26.1998151277103 28.0408921414315,-26.1999571907089 28.0409121478159,-26.2000995968241 28.0408420843728,-26.2001075647551 28.0407553023651,-26.2001174388896 28.0407353288589,-26.1999747531978 28.0407155197437,-26.1998331921662</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">953085</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000329100000</SimpleData>
+		<SimpleData name="ERF_NO">3291</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.035924960690000</SimpleData>
+		<SimpleData name="Y">-26.192254182776999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">953085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.035837142914,-26.1921924419943 28.0359934294354,-26.1921749430454 28.0360127700363,-26.19231593857 28.0358564917344,-26.1923334121028 28.035837142914,-26.1921924419943</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">953374</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000463100000</SimpleData>
+		<SimpleData name="ERF_NO">4631</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044159689270000</SimpleData>
+		<SimpleData name="Y">-26.204246765339999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">953374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0439741767327,-26.2042439439161 28.0441300687158,-26.2042261908068 28.0441103911134,-26.2040854113186 28.0442669735386,-26.2040675946692 28.0443063616216,-26.2043494713462 28.044149803855,-26.2043672879956 28.0439938954329,-26.2043850220429 28.0439741767327,-26.2042439439161</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955090</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000030300000</SimpleData>
+		<SimpleData name="ERF_NO">303</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.034597820253001</SimpleData>
+		<SimpleData name="Y">-26.205097839017998</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955090</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0345097431452,-26.2050363463893 28.0346660543253,-26.2050184090136 28.0346858963187,-26.2051593473521 28.0345295851386,-26.2051772529577 28.0345097431452,-26.2050363463893</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955091</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000030400000</SimpleData>
+		<SimpleData name="ERF_NO">304</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.034577983956002</SimpleData>
+		<SimpleData name="Y">-26.204956924129000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955091</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0344899586887,-26.2048954080508 28.0346461958928,-26.2048775024452 28.0346660543253,-26.2050184090136 28.0345097431452,-26.2050363463893 28.0344899586887,-26.2048954080508</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955392</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000465600000</SimpleData>
+		<SimpleData name="ERF_NO">4656</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.041273998769000</SimpleData>
+		<SimpleData name="Y">-26.200401132684998</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0410978932041,-26.2002777506105 28.0412542372624,-26.2002598005268 28.0414101950018,-26.2002420664795 28.0414299301411,-26.2003834432449 28.0414497721345,-26.200525252083 28.0412935513695,-26.2005429098821 28.0412291922939,-26.2005489080694 28.0411375196541,-26.2005597543678 28.0410978932041,-26.2002777506105</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955396</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000467000000</SimpleData>
+		<SimpleData name="ERF_NO">4670</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.040456543398999</SimpleData>
+		<SimpleData name="Y">-26.201300207142999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955396</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0401759556114,-26.201158238751 28.0403321763764,-26.2011405047037 28.0404884300196,-26.2011227198243 28.0406446425651,-26.201104973069 28.0406643612653,-26.2012459114075 28.0406840553068,-26.201386849746 28.0407037082505,-26.2015277817305 28.0405474874855,-26.2015455348398 28.0405278016636,-26.2014046282714 28.0403715808985,-26.2014223305486 28.0402153683531,-26.201440128136 28.0401956414334,-26.2012991897975 28.0401759556114,-26.201158238751</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955437</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000476500000</SimpleData>
+		<SimpleData name="ERF_NO">4765</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.045369521146000</SimpleData>
+		<SimpleData name="Y">-26.204571226972998</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955437</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0452716491204,-26.2044391899946 28.0454278616659,-26.2044213796991 28.0454476461224,-26.2045623180376 28.0454674141399,-26.2047032563761 28.0453111604967,-26.2047210666716 28.0452913924792,-26.2045801283331 28.0452716491204,-26.2044391899946</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955458</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000482400000</SimpleData>
+		<SimpleData name="ERF_NO">4824</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.043135714815001</SimpleData>
+		<SimpleData name="Y">-26.202679028656000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955458</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.043018711596,-26.2024051945292 28.0431748337265,-26.2023873143397 28.0432138354906,-26.2026697247537 28.0432528947917,-26.2029526307806 28.0430963616838,-26.2029705173242 28.0430769224483,-26.2028289435845 28.0430574914324,-26.2026875985892 28.0430380850751,-26.2025463806742 28.043018711596,-26.2024051945292</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955507</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000328800000</SimpleData>
+		<SimpleData name="ERF_NO">3288</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.036383801928999</SimpleData>
+		<SimpleData name="Y">-26.192130425691001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955507</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0362859878743,-26.1919984413022 28.0364422743957,-26.1919804086163 28.0364816131614,-26.1922624123736 28.0363253348596,-26.1922804387054 28.0362859878743,-26.1919984413022</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955649</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000478600000</SimpleData>
+		<SimpleData name="ERF_NO">4786</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044793770346001</SimpleData>
+		<SimpleData name="Y">-26.203863737904001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955649</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0446959600664,-26.2037316898287 28.0448521726118,-26.2037139113034 28.0448718995315,-26.2038548496419 28.0448915853535,-26.2039957816264 28.0447353645885,-26.2040135665058 28.0447156458883,-26.2038726281673 28.0446959600664,-26.2037316898287</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955660</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000483000000</SimpleData>
+		<SimpleData name="ERF_NO">4830</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.051827474522000</SimpleData>
+		<SimpleData name="Y">-26.201828991345000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955660</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0516513678335,-26.201706005411 28.0518075803789,-26.2016880680353 28.0519638340222,-26.2016701624297 28.0520035837654,-26.2019519692126 28.0518473301222,-26.2019699129423 28.0516911175767,-26.201987850318 28.0516712591442,-26.2018469119795 28.0516513678335,-26.201706005411</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955739</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000355000000</SimpleData>
+		<SimpleData name="ERF_NO">3550</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.049988471900001</SimpleData>
+		<SimpleData name="Y">-26.190196832798001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0499003324639,-26.1901353814656 28.0500566107657,-26.1901173170097 28.0500766171502,-26.1902583188884 28.0499202977505,-26.1902763134501 28.0499003324639,-26.1901353814656</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955782</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000469100000</SimpleData>
+		<SimpleData name="ERF_NO">4691</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044544075093000</SimpleData>
+		<SimpleData name="Y">-26.200171754555001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0443484539365,-26.1999080043026 28.0445046171647,-26.1998894696498 28.0446608625884,-26.1998716911244 28.0447002095736,-26.2001538346699 28.0447395483394,-26.2004361624818 28.0445836645759,-26.2004539410072 28.0444273451763,-26.2004717195325 28.0444076264761,-26.2003306922379 28.0443878666782,-26.2001895950491 28.0443681150998,-26.2000484406741 28.0443484539365,-26.1999080043026</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955792</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000472500000</SimpleData>
+		<SimpleData name="ERF_NO">4725</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.052915328158999</SimpleData>
+		<SimpleData name="Y">-26.199846716993001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0526758607501,-26.1997295963557 28.0527071114787,-26.1997260381091 28.0528633322437,-26.1997081261494 28.0530195201305,-26.1996902205438 28.0531021430459,-26.1996807530661 28.0531667404884,-26.1999597196056 28.0530592369956,-26.1999720654508 28.0529030162305,-26.1999899710564 28.0527468036851,-26.200007876662 28.0527155858346,-26.2000114730328 28.0526758607501,-26.1997295963557</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955793</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000472900000</SimpleData>
+		<SimpleData name="ERF_NO">4729</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.043340920483001</SimpleData>
+		<SimpleData name="Y">-26.201881826003000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955793</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0432232715339,-26.2016088779847 28.0433794922989,-26.2015910168572 28.043399284975,-26.2017319742577 28.0434190201143,-26.2018729125962 28.0434388045709,-26.2020138445807 28.0434585808079,-26.2021547829193 28.0433023353842,-26.2021726313388 28.0432825838058,-26.2020316930002 28.0432627993493,-26.2018907546617 28.0432430395514,-26.2017498163232 28.0432232715339,-26.2016088779847</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955813</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000525500000</SimpleData>
+		<SimpleData name="ERF_NO">5255</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044070359679001</SimpleData>
+		<SimpleData name="Y">-26.202557203944000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.043703474077,-26.2023269575804 28.0438563659243,-26.2023092870732 28.0440166142688,-26.2022907841905 28.0441733199872,-26.2022726625485 28.0443298037779,-26.2022545980926 28.0443498019427,-26.202395504661 28.0443698987422,-26.2025370656927 28.0443899297852,-26.2026781628815 28.0444099608283,-26.2028192854864 28.0442528605714,-26.2028374706685 28.0439402382113,-26.2028735678102 28.0439202729246,-26.2027324070813 28.0437636165235,-26.2027506303875 28.0437435690413,-26.2026094696586 28.043723488681,-26.2024681882034 28.043703474077,-26.2023269575804</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955822</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000528000000</SimpleData>
+		<SimpleData name="ERF_NO">5280</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.046266704489000</SimpleData>
+		<SimpleData name="Y">-26.200893305512000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0460906615095,-26.2007702818449 28.0462468658355,-26.2007523762393 28.04640309482,-26.2007345024037 28.0464427377091,-26.2010163473107 28.0462865169441,-26.2010342211462 28.0461303290573,-26.2010521267518 28.0461104870639,-26.2009111884133 28.0460906615095,-26.2007702818449</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955827</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000528500000</SimpleData>
+		<SimpleData name="ERF_NO">5285</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044443535807002</SimpleData>
+		<SimpleData name="Y">-26.204190701647999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955827</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0442669735386,-26.2040676264392 28.0444244272361,-26.2040496890636 28.0445806726597,-26.2040319105382 28.0446003913599,-26.2041728488767 28.0446201100601,-26.2043137872152 28.0444638646364,-26.2043315657406 28.0443063616216,-26.2043494713462 28.0442669735386,-26.2040676264392</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">955917</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000451500000</SimpleData>
+		<SimpleData name="ERF_NO">4515</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.051570819651001</SimpleData>
+		<SimpleData name="Y">-26.199999822694998</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">955917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0513947370471,-26.1998766917318 28.0515509249339,-26.1998587543561 28.051707162138,-26.1998408487505 28.0517468954422,-26.200122973234 28.0515907075553,-26.2001408788396 28.0514344867903,-26.2001588162153 28.0514146119187,-26.2000177571506 28.0513947370471,-26.1998766917318</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">956003</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000518700000</SimpleData>
+		<SimpleData name="ERF_NO">5187</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.043859464185999</SimpleData>
+		<SimpleData name="Y">-26.201168969548998</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">956003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0436833937166,-26.2010459697143 28.043839992581,-26.2010280069226 28.043996048955,-26.2010100631929 28.0440157676551,-26.2011505948746 28.0440356260876,-26.2012919398699 28.0438797423242,-26.2013098137054 28.0437227735801,-26.2013278336833 28.0437030795386,-26.2011869080528 28.0436833937166,-26.2010459697143</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">956162</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000510600001</SimpleData>
+		<SimpleData name="ERF_NO">5106</SimpleData>
+		<SimpleData name="PORTION">00001</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.042812300289000</SimpleData>
+		<SimpleData name="Y">-26.199595781607002</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">956162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0424603986704,-26.1993491943698 28.0430852981696,-26.1992780675603 28.0431642058485,-26.1998423610054 28.0425392981297,-26.1999135068769 28.0424603986704,-26.1993491943698</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">956167</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000511400000</SimpleData>
+		<SimpleData name="ERF_NO">5114</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.052517959346002</SimpleData>
+		<SimpleData name="Y">-26.198567835180999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">956167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0521101748882,-26.1975032522414 28.0525383312415,-26.1974814389185 28.0529909900729,-26.1994928141014 28.0523930671364,-26.1995616280505 28.0521101748882,-26.1975032522414</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">957640</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000447800000</SimpleData>
+		<SimpleData name="ERF_NO">4478</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.051787859470998</SimpleData>
+		<SimpleData name="Y">-26.201027824514000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">957640</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0515309925255,-26.2008519118361 28.0516665822203,-26.2008363190908 28.0516722865879,-26.2008764383221 28.0516929916341,-26.2008743160821 28.0518495494006,-26.20085828491 28.0520061482649,-26.2008422537379 28.052013085565,-26.2008915989946 28.0520330015344,-26.2010325373331 28.0520528599669,-26.2011734439015 28.0518965981041,-26.2011913812772 28.0517403033632,-26.2012093504229 28.0515839921831,-26.2012272877986 28.0515640844333,-26.2010863812301 28.0515442095617,-26.2009454555996 28.0515309925255,-26.2008519118361</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">957830</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000042700000</SimpleData>
+		<SimpleData name="ERF_NO">427</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.048094318507001</SimpleData>
+		<SimpleData name="Y">-26.203845713019000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">957830</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0480067865385,-26.2037846886422 28.0481622428854,-26.2037669418869 28.0481818629509,-26.2039067555653 28.0480263655063,-26.2039244578425 28.0480067865385,-26.2037846886422</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958046</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000101500000</SimpleData>
+		<SimpleData name="ERF_NO">1015</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.050694814441002</SimpleData>
+		<SimpleData name="Y">-26.201112887211998</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0506067698979,-26.2010513769784 28.0507629906629,-26.2010334713728 28.0507828655345,-26.2011743779413 28.0506266447695,-26.2011923153169 28.0506067698979,-26.2010513769784</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958060</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000041200000</SimpleData>
+		<SimpleData name="ERF_NO">412</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.046772093506998</SimpleData>
+		<SimpleData name="Y">-26.203925097521001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958060</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0466743646247,-26.2037929742738 28.0468309306108,-26.203775532511 28.0468694885193,-26.2040575044982 28.0467136458536,-26.2040748128267 28.0466940175685,-26.2039340015684 28.0466743646247,-26.2037929742738</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958066</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000042600000</SimpleData>
+		<SimpleData name="ERF_NO">426</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.047928199529000</SimpleData>
+		<SimpleData name="Y">-26.203792583612000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0478301730702,-26.2036604740631 28.0479860979314,-26.2036426574136 28.0480067865385,-26.2037846886422 28.0480263655063,-26.2039244578425 28.0478697091051,-26.2039423443861 28.0478301730702,-26.2036604740631</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958072</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000112500000</SimpleData>
+		<SimpleData name="ERF_NO">1125</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.041589074389002</SimpleData>
+		<SimpleData name="Y">-26.202297532562000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0415009552716,-26.2022359427136 28.0416575541359,-26.2022181896043 28.0416771742015,-26.2023591279428 28.0415206164349,-26.2023768810521 28.0415009552716,-26.2022359427136</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958103</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000148200000</SimpleData>
+		<SimpleData name="ERF_NO">1482</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.047121323186001</SimpleData>
+		<SimpleData name="Y">-26.200093022701001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0470330822206,-26.2000315008783 28.0471896153285,-26.2000135063166 28.0472096792498,-26.2001545653813 28.047052850238,-26.2001724392169 28.0470330822206,-26.2000315008783</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958224</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000060300000</SimpleData>
+		<SimpleData name="ERF_NO">603</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.047366501926000</SimpleData>
+		<SimpleData name="Y">-26.203185168556001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.047278427565,-26.2031236617196 28.0474346729886,-26.203105724344 28.0474545807384,-26.2032466626825 28.0472983353148,-26.2032646318282 28.047278427565,-26.2031236617196</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958266</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000452800000</SimpleData>
+		<SimpleData name="ERF_NO">4528</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.045778315174999</SimpleData>
+		<SimpleData name="Y">-26.200805642014000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0455822987886,-26.2005416899119 28.04573858531,-26.2005237525362 28.0458948307337,-26.2005058151605 28.0459050805124,-26.200578536827 28.0459147056053,-26.2006467852691 28.0459345804769,-26.2007876918375 28.0459544553485,-26.2009286301761 28.045974313781,-26.2010696002846 28.0458181258942,-26.2010875376603 28.0456618147141,-26.2011054750359 28.0456217197498,-26.2008212854986 28.0455874606659,-26.2005783462067 28.0455822987886,-26.2005416899119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958281</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000445200000</SimpleData>
+		<SimpleData name="ERF_NO">4452</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.051943970071999</SimpleData>
+		<SimpleData name="Y">-26.201529215036999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0516116427489,-26.201424160504 28.0517678306357,-26.2014062548984 28.0519240842789,-26.2013883175228 28.0520803132635,-26.2013703801471 28.0522365669067,-26.2013524427714 28.0522564089001,-26.2014933493399 28.0522762673326,-26.2016342876784 28.0521200547872,-26.201652193284 28.0519638340222,-26.2016701115976 28.0518075803789,-26.2016880680353 28.0516513924921,-26.2017059736409 28.0516315176205,-26.2015650988426 28.0516116427489,-26.201424160504</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958290</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000125500001</SimpleData>
+		<SimpleData name="ERF_NO">1255</SimpleData>
+		<SimpleData name="PORTION">00001</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.042111245388998</SimpleData>
+		<SimpleData name="Y">-26.201037557464002</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958290</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0420196170886,-26.200947787522 28.0421756734626,-26.2009300344127 28.0422027897577,-26.201127364607 28.0420469224333,-26.2011451304244 28.0420196170886,-26.200947787522</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958317</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000149300000</SimpleData>
+		<SimpleData name="ERF_NO">1493</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.046579989971999</SimpleData>
+		<SimpleData name="Y">-26.200083251357000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0464823148418,-26.1999512242917 28.0466385027286,-26.1999334076423 28.0466580981355,-26.2000743459808 28.0466776771033,-26.2002152525492 28.0465214563383,-26.2002330946147 28.0464823148418,-26.1999512242917</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958322</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000214500000</SimpleData>
+		<SimpleData name="ERF_NO">2145</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.049987192404998</SimpleData>
+		<SimpleData name="Y">-26.194719198599000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0498904607845,-26.1945957834648 28.0500473637721,-26.1945777253629 28.0500836448653,-26.1948427829703 28.0499273665634,-26.1948608474262 28.0498904607845,-26.1945957834648</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958325</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000214900000</SimpleData>
+		<SimpleData name="ERF_NO">2149</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.050612775920001</SimpleData>
+		<SimpleData name="Y">-26.194647517654001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0505162068973,-26.1945235637652 28.0506724851992,-26.1945060965865 28.0507093991977,-26.1947711605479 28.0505531126762,-26.1947891932338 28.0505162068973,-26.1945235637652</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958398</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000055800000</SimpleData>
+		<SimpleData name="ERF_NO">558</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.050888502090999</SimpleData>
+		<SimpleData name="Y">-26.202493786362002</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958398</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0508003978344,-26.2024323134521 28.0509567254536,-26.2024143443064 28.050976567447,-26.2025552826449 28.0508203138037,-26.2025732200206 28.0508003978344,-26.2024323134521</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958613</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000091600000</SimpleData>
+		<SimpleData name="ERF_NO">916</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.049041155954999</SimpleData>
+		<SimpleData name="Y">-26.202219401510000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0489525361672,-26.2021580361734 28.0491096939609,-26.2021398192212 28.0491297661017,-26.2022807829757 28.0489726165276,-26.2022989745119 28.0489525361672,-26.2021580361734</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958618</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000092300000</SimpleData>
+		<SimpleData name="ERF_NO">923</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.049000903342002</SimpleData>
+		<SimpleData name="Y">-26.201936832074001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958618</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0489122521533,-26.2018752254566 28.049069409947,-26.2018570021504 28.0490895560637,-26.2019984424558 28.04893239827,-26.202016659408 28.0489122521533,-26.2018752254566</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958643</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000135100000</SimpleData>
+		<SimpleData name="ERF_NO">1351</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.049281800004000</SimpleData>
+		<SimpleData name="Y">-26.200548190487002</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958643</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0491838343008,-26.2004161918223 28.0493401454809,-26.2003983179868 28.0493599545961,-26.2005391927852 28.0493657411592,-26.2005804112605 28.0493797719309,-26.2006801883098 28.0492234607508,-26.2006980684993 28.0492068983578,-26.2005803159503 28.0491838343008,-26.2004161918223</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958679</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000486300000</SimpleData>
+		<SimpleData name="ERF_NO">4863</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.043618754423001</SimpleData>
+		<SimpleData name="Y">-26.200420682404001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958679</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0434427663939,-26.2002975052336 28.0435990529153,-26.2002796631681 28.0437551750457,-26.2002618465187 28.0437947357393,-26.200543882046 28.0436385231938,-26.2005616923414 28.0435028924013,-26.2005771580064 28.0434823024288,-26.2005795026368 28.0434819900859,-26.2005771580064 28.0434625508505,-26.2004385325282 28.0434427663939,-26.2002975052336</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958680</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000486400000</SimpleData>
+		<SimpleData name="ERF_NO">4864</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044048202509000</SimpleData>
+		<SimpleData name="Y">-26.200085087247999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958680</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0438720323864,-26.1999623183965 28.044028023004,-26.1999438472838 28.0441847862593,-26.1999259734483 28.0442045542768,-26.2000669435569 28.044224363392,-26.2002083457382 28.0440677069908,-26.2002262195738 28.0439114122499,-26.2002440362232 28.0438720323864,-26.1999623183965</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958751</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000468500000</SimpleData>
+		<SimpleData name="ERF_NO">4685</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.048283795155999</SimpleData>
+		<SimpleData name="Y">-26.199888954969001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0479512388204,-26.1997836626432 28.0481076157568,-26.1997658142237 28.0482641735234,-26.1997477878919 28.0484210025351,-26.1997300347826 28.0485762862715,-26.1997123134433 28.0485960214107,-26.1998532835519 28.0486158058673,-26.1999943489706 28.0484595522241,-26.2000121910361 28.0483032985808,-26.2000300331016 28.0481470860354,-26.200047849751 28.047990799514,-26.2000656918165 28.0479720835989,-26.1999245056715 28.0479512388204,-26.1997836626432</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958774</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000444800000</SimpleData>
+		<SimpleData name="ERF_NO">4448</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044484437613999</SimpleData>
+		<SimpleData name="Y">-26.201097197864001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0443082110203,-26.2009742837517 28.0444648920801,-26.200956282836 28.0446211457233,-26.2009383136902 28.0446604433913,-26.2012202221373 28.0445042061872,-26.201238159513 28.0443479607635,-26.2012560968886 28.0443280858919,-26.2011151903202 28.0443082110203,-26.2009742837517</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">958836</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000180500000</SimpleData>
+		<SimpleData name="ERF_NO">1805</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044731321343999</SimpleData>
+		<SimpleData name="Y">-26.198675114187001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">958836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0446432891907,-26.1986135014531 28.0447996168099,-26.1985956911577 28.0448193601687,-26.1987367248064 28.0446630161104,-26.1987545351018 28.0446432891907,-26.1986135014531</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">959723</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000484000000</SimpleData>
+		<SimpleData name="ERF_NO">4840</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.041383652590000</SimpleData>
+		<SimpleData name="Y">-26.201962201280999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">959723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0411294151779,-26.201847191556 28.0412856112843,-26.2018294575087 28.0414418649275,-26.2018117552315 28.0415984720114,-26.2017940021222 28.0416181742724,-26.2019355949239 28.0416378929726,-26.2020772194957 28.041481335206,-26.202094972605 28.0413250815628,-26.2021126939443 28.0411688361392,-26.2021304089295 28.0411491914149,-26.2019892227845 28.0411294151779,-26.201847191556</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">959725</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000484300000</SimpleData>
+		<SimpleData name="ERF_NO">4843</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.041059451911998</SimpleData>
+		<SimpleData name="Y">-26.201344413440001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">959725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0409027693095,-26.2013625329424 28.0410596640776,-26.2013439728736 28.0410391727398,-26.2012031616153 28.0410200211886,-26.2010614099632 28.0411762666122,-26.201043688624 28.0412167067977,-26.2013264103846 28.0410604284958,-26.2013438775634 28.0410791444109,-26.2014853496389 28.0410989124283,-26.2016274380535 28.0409422067099,-26.2016452229329 28.0409224304728,-26.201503534821 28.0409027693095,-26.2013625329424</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">959726</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000484400000</SimpleData>
+		<SimpleData name="ERF_NO">4844</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.041922281243000</SimpleData>
+		<SimpleData name="Y">-26.201388900916001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">959726</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0417464239092,-26.2012666000703 28.0419026775524,-26.201247754071 28.0420586599505,-26.2012299437755 28.0420979740576,-26.201512036489 28.0419428136145,-26.2015297197042 28.0417857380163,-26.2015475998937 28.0417660686334,-26.2014069856098 28.0417464239092,-26.2012666000703</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">959727</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000484600000</SimpleData>
+		<SimpleData name="ERF_NO">4846</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.042970913607000</SimpleData>
+		<SimpleData name="Y">-26.201284122939999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">959727</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0427033932235,-26.201300505078 28.0428595646713,-26.201282377082 28.0428398624102,-26.2011410956268 28.0429963626399,-26.2011232980394 28.0431526162831,-26.2011057546125 28.0431718007126,-26.2012468772173 28.0431917988774,-26.2013881904425 28.0430354301605,-26.2014059562599 28.0428788312962,-26.2014237856173 28.0427231119237,-26.2014415323727 28.0427033932235,-26.201300505078</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">959728</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000484700000</SimpleData>
+		<SimpleData name="ERF_NO">4847</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.043006077724002</SimpleData>
+		<SimpleData name="Y">-26.201003001156000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">959728</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0426441795862,-26.2008770038292 28.0428006798159,-26.2008591935337 28.042956990996,-26.2008414086544 28.0431132364197,-26.2008235983589 28.0432696791125,-26.2008058134796 28.0432893978127,-26.2009467835881 28.0433091165129,-26.2010877219266 28.043328835213,-26.2012288445315 28.0431718007126,-26.2012468772173 28.0431526162831,-26.2011057546125 28.0429963626399,-26.2011232980394 28.042839829532,-26.2011410956268 28.0426836169865,-26.2011590330025 28.0426638654082,-26.2010179421677 28.0426441795862,-26.2008770038292</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">962556</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000151600000</SimpleData>
+		<SimpleData name="ERF_NO">1516</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.045280173803999</SimpleData>
+		<SimpleData name="Y">-26.199873007215999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">962556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0451921578535,-26.1998111564528 28.0453483621794,-26.1997933461574 28.0453682041728,-26.199934850003 28.0452119587492,-26.1999526602984 28.0451921578535,-26.1998111564528</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1321091</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000084900000</SimpleData>
+		<SimpleData name="ERF_NO">849</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.043828020353999</SimpleData>
+		<SimpleData name="Y">-26.208756456692001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1321091</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0437400181958,-26.2086949102076 28.0438962389608,-26.2086770681421 28.0439160234173,-26.2088180064806 28.0437598026523,-26.2088358485461 28.0437400181958,-26.2086949102076</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1352595</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000449600000</SimpleData>
+		<SimpleData name="ERF_NO">4496</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.048410180807000</SimpleData>
+		<SimpleData name="Y">-26.202706411779001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1352595</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0481553055853,-26.2025918499835 28.0483118797909,-26.202574503531 28.0484680676777,-26.2025564390751 28.0486253652038,-26.2025382538929 28.0486450839039,-26.2026791604614 28.0486648026041,-26.2028204419165 28.0485081790812,-26.2028385635586 28.0483519747552,-26.2028565962444 28.0481954909646,-26.2028746924704 28.0481755174584,-26.2027342243287 28.0481553055853,-26.2025918499835</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1352596</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000455400000</SimpleData>
+		<SimpleData name="ERF_NO">4554</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.040022520128002</SimpleData>
+		<SimpleData name="Y">-26.200542814172000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1352596</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0398466640041,-26.2004185999928 28.0400020052773,-26.2004009421937 28.0401588918258,-26.2003830683582 28.0401856135825,-26.2005752200328 28.0401983456653,-26.2006667559286 28.0400421742176,-26.2006848458005 28.0398863973082,-26.2007028149463 28.0398685197872,-26.2005750357664 28.0398664895584,-26.2005605041412 28.0398466640041,-26.2004185999928</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1446842</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000480300000</SimpleData>
+		<SimpleData name="ERF_NO">4803</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044117720142001</SimpleData>
+		<SimpleData name="Y">-26.203387608208001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1446842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0438107392029,-26.2030885685118 28.0439669270898,-26.2030706311361 28.044123180733,-26.2030526619904 28.0441631935018,-26.2033350025103 28.0443201129285,-26.2033169253463 28.0444760871071,-26.2032990006787 28.0444959291005,-26.2034393798641 28.0445158615089,-26.203580502469 28.0443594270356,-26.2035985033848 28.0442030500992,-26.2036164725305 28.0440466156258,-26.2036344734463 28.043890427739,-26.203652410822 28.0438705199892,-26.2035115042535 28.0438506451176,-26.2033709408017 28.0438306469527,-26.2032295068503 28.0438107392029,-26.2030885685118</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1448370</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000484900000</SimpleData>
+		<SimpleData name="ERF_NO">4849</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044797221797001</SimpleData>
+		<SimpleData name="Y">-26.201061308812001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1448370</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0446211457233,-26.2009383136902 28.044777629514,-26.2009202238183 28.0449337352053,-26.2009023817528 28.0449536593942,-26.2010434408175 28.0449735178267,-26.2011842838459 28.0448172066466,-26.2012022212215 28.0446604433913,-26.2012202221373 28.0446211457233,-26.2009383136902</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1450107</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000453300000</SimpleData>
+		<SimpleData name="ERF_NO">4533</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.037704389906001</SimpleData>
+		<SimpleData name="Y">-26.205732629225000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1450107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0373721109759,-26.2056270661699 28.0375283317409,-26.2056092368125 28.0376847579947,-26.2055914392251 28.0378075827285,-26.205577568417 28.0378410691747,-26.2055737877799 28.0379972570616,-26.2055557868641 28.0380169922008,-26.205696909469 28.0380367684378,-26.2058380638439 28.0374116305717,-26.2059094702299 28.0373721109759,-26.2056270661699</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1467823</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000126300000</SimpleData>
+		<SimpleData name="ERF_NO">1263</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.043260274851001</SimpleData>
+		<SimpleData name="Y">-26.201308546477001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1467823</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0431718007126,-26.2012468772173 28.043328835213,-26.2012288445315 28.04334861145,-26.2013703483771 28.0431917988774,-26.2013881904425 28.0431718007126,-26.2012468772173</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1468047</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000478500000</SimpleData>
+		<SimpleData name="ERF_NO">4785</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044005677441000</SimpleData>
+		<SimpleData name="Y">-26.203904248781001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1468047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0439150535105,-26.2038210335904 28.0440709290544,-26.2038032868351 28.0440906477545,-26.2039443776699 28.0440966151478,-26.2039869114257 28.0439654229121,-26.2040018179377 28.0439658832069,-26.2040050966079 28.0439411916791,-26.2040079114351 28.0439347722106,-26.2039620990092 28.0439150535105,-26.2038210335904</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1508098</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000084700000</SimpleData>
+		<SimpleData name="ERF_NO">847</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.043886345634000</SimpleData>
+		<SimpleData name="Y">-26.208606611642001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1508098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0437202419588,-26.2085540036391 28.0440326752692,-26.2085183195081 28.0440524597258,-26.2086592070145 28.0438962389608,-26.2086770681421 28.0437400181958,-26.2086949102076 28.0437202419588,-26.2085540036391</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1523140</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000441100000</SimpleData>
+		<SimpleData name="ERF_NO">4411</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.037372677128001</SimpleData>
+		<SimpleData name="Y">-26.193633873271999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1523140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0371966729032,-26.19351050552 28.0372174601449,-26.1935080973494 28.0375092377265,-26.1934744401483 28.0375485847118,-26.1937575367956 28.0372360198885,-26.1937930684303 28.0372174930231,-26.1936599391724 28.0371966729032,-26.19351050552</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1549095</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000030700000</SimpleData>
+		<SimpleData name="ERF_NO">307</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.044125405016999</SimpleData>
+		<SimpleData name="Y">-26.207462495110001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1549095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0440334396874,-26.2073727864682 28.0441896933306,-26.2073549126327 28.0442173603355,-26.207552223765 28.0440611149118,-26.2075700658305 28.0440334396874,-26.2073727864682</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1551294</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000020600000</SimpleData>
+		<SimpleData name="ERF_NO">206</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.041395197273999</SimpleData>
+		<SimpleData name="Y">-26.207029762251999</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1551294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0413071793832,-26.206968220175 28.0414634248069,-26.2069503781095 28.0414832257025,-26.2070912846779 28.0413269720593,-26.2071091585135 28.0413071793832,-26.206968220175</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1567494</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000122400000</SimpleData>
+		<SimpleData name="ERF_NO">1224</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.040469382440001</SimpleData>
+		<SimpleData name="Y">-26.201554428129000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1567494</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0403715808985,-26.2014223813807 28.0405278016636,-26.2014046282714 28.0405474874855,-26.2015455348398 28.0405671897466,-26.2016864731783 28.040410960762,-26.2017042199337 28.0403715808985,-26.2014223813807</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1567726</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000068400000</SimpleData>
+		<SimpleData name="ERF_NO">684</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.042439869043999</SimpleData>
+		<SimpleData name="Y">-26.203388551622002</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1567726</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0423420535913,-26.2032566321272 28.0424974606209,-26.2032386312114 28.0425377857326,-26.2035201901878 28.0423822389706,-26.2035386295304 28.0423420535913,-26.2032566321272</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1611439</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000476800000</SimpleData>
+		<SimpleData name="ERF_NO">4768</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044509630225999</SimpleData>
+		<SimpleData name="Y">-26.204669121679999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1611439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0443334861362,-26.2045460644751 28.0444895178516,-26.2045280635594 28.0446455824451,-26.2045100626436 28.0446655970491,-26.204650969212 28.0446855541162,-26.2047919075505 28.0445296128159,-26.2048105819916 28.0443737865893,-26.204827877612 28.0443334861362,-26.2045460644751</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1616714</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000098300000</SimpleData>
+		<SimpleData name="ERF_NO">983</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.053283953788000</SimpleData>
+		<SimpleData name="Y">-26.200890388034001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1616714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0531688035955,-26.2007572370584 28.0533457869435,-26.2007369105742 28.0534103679469,-26.201016004194 28.0532085862169,-26.2010391582135 28.0531688035955,-26.2007572370584</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1617451</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000103600000</SimpleData>
+		<SimpleData name="ERF_NO">1036</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.049539371542000</SimpleData>
+		<SimpleData name="Y">-26.201244542503002</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1617451</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0494507724027,-26.2011831591857 28.0496077986836,-26.2011650375437 28.0496277721899,-26.2013060330683 28.0494711486669,-26.2013240657542 28.0494507724027,-26.2011831591857</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1645265</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000106300000</SimpleData>
+		<SimpleData name="ERF_NO">1063</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.043849251847998</SimpleData>
+		<SimpleData name="Y">-26.208328837612001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1645265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0436806730456,-26.2082721587321 28.0439973312048,-26.2082359408642 28.0440175184193,-26.2083854380567 28.043701739752,-26.2084219100852 28.0436806730456,-26.2082721587321</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1663508</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000085100000</SimpleData>
+		<SimpleData name="ERF_NO">851</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.044140456257001</SimpleData>
+		<SimpleData name="Y">-26.208720765879999</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1663508</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0440524597258,-26.2086592070145 28.0442086722713,-26.2086413776571 28.0442284567278,-26.2087823159956 28.0440722359628,-26.2088001580611 28.0440524597258,-26.2086592070145</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1667731</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000086600000</SimpleData>
+		<SimpleData name="ERF_NO">866</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.043851941941998</SimpleData>
+		<SimpleData name="Y">-26.202812057538001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1667731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0437636165235,-26.2027506621576 28.0439202729246,-26.2027323753113 28.0439402053331,-26.2028735678102 28.0437836146883,-26.2028916576822 28.0437636165235,-26.2027506621576</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1677365</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000012300000</SimpleData>
+		<SimpleData name="ERF_NO">123</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.045418919456001</SimpleData>
+		<SimpleData name="Y">-26.204923652588999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1677365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0453309449532,-26.2048620050101 28.0454871492792,-26.2048441947147 28.0455069255162,-26.2049852664874 28.0453506800925,-26.2050031276149 28.0453309449532,-26.2048620050101</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1740464</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000085000000</SimpleData>
+		<SimpleData name="ERF_NO">850</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.043984240482999</SimpleData>
+		<SimpleData name="Y">-26.208738608752000</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1740464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0438962389608,-26.2086770681421 28.0440524597258,-26.2086592070145 28.0440722359628,-26.2088001580611 28.0439160234173,-26.2088180064806 28.0438962389608,-26.2086770681421</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1740870</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000079500000</SimpleData>
+		<SimpleData name="ERF_NO">795</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.050093354034999</SimpleData>
+		<SimpleData name="Y">-26.209043596046001</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1740870</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0500053618722,-26.2089820988385 28.0501615497591,-26.2089641932329 28.0501813342156,-26.2091051315714 28.0500251463288,-26.2091229736369 28.0500053618722,-26.2089820988385</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1741149</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04690000039600001</SimpleData>
+		<SimpleData name="ERF_NO">396</SimpleData>
+		<SimpleData name="PORTION">00001</SimpleData>
+		<SimpleData name="MIN_REGION">NEWTOWN</SimpleData>
+		<SimpleData name="X">28.037047529220999</SimpleData>
+		<SimpleData name="Y">-26.202374004932999</SimpleData>
+		<SimpleData name="SGTOWN">Newtown</SimpleData>
+		<SimpleData name="AG_SUB_ID">15864</SimpleData>
+		<SimpleData name="SUBURB">Newtown</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1741149</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0368831957099,-26.2023308462357 28.0371947741872,-26.2022952828309 28.0372118790705,-26.2024171591337 28.036900267715,-26.2024527225384 28.0368831957099,-26.2023308462357</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1771479</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000449700000</SimpleData>
+		<SimpleData name="ERF_NO">4497</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.041234485633002</SimpleData>
+		<SimpleData name="Y">-26.200692931043999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1771479</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0409811427176,-26.2005777552835 28.0409990202386,-26.2005757219997 28.0411375196541,-26.2005597543678 28.0412291922939,-26.2005489080694 28.0412935513695,-26.2005429098821 28.0414497721345,-26.200525252083 28.041456865606,-26.2005759698062 28.0414694579565,-26.2006662539616 28.0414892259739,-26.2008075671868 28.0413328325984,-26.2008253774823 28.0411764556619,-26.2008431623617 28.0410184759132,-26.2008611315074 28.0409998010959,-26.2007193798553 28.0409811427176,-26.2005777552835</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1771482</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000529700000</SimpleData>
+		<SimpleData name="ERF_NO">5297</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.041061167616999</SimpleData>
+		<SimpleData name="Y">-26.199775585217001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1771482</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0406786797212,-26.199552287653 28.0407349096619,-26.1995460988454 28.0407942054947,-26.1995395986912 28.0408329606724,-26.1995353478572 28.0409897403668,-26.1995174740216 28.0411464543048,-26.199499002909 28.0413035792203,-26.1994811290734 28.0413234294333,-26.1996230014517 28.0413429262056,-26.1997623449332 28.0413626449058,-26.1999032197316 28.0413826101924,-26.2000460325036 28.041225830498,-26.2000638809231 28.0410701440037,-26.2000815959084 28.0409121478159,-26.2000995968241 28.0408921414315,-26.1999571907089 28.0408722090231,-26.1998151277103 28.0407155197437,-26.1998331921662 28.0406982669085,-26.199692412678 28.0406786797212,-26.199552287653</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1771500</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000447500000</SimpleData>
+		<SimpleData name="ERF_NO">4475</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.036183161391001</SimpleData>
+		<SimpleData name="Y">-26.192961261773998</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1771500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0359290046034,-26.1928471911531 28.0363978312895,-26.1927936458946 28.0364371782748,-26.1930756305898 28.0359683351496,-26.1931286294033 28.0359290046034,-26.1928471911531</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1771681</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000518900000</SimpleData>
+		<SimpleData name="ERF_NO">5189</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.045204355405001</SimpleData>
+		<SimpleData name="Y">-26.203960353408998</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1771681</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.045008426255,-26.2036961581941 28.0451648607284,-26.2036783478986 28.0453214267145,-26.2036605376032 28.0453411289755,-26.2038015013578 28.0453608476757,-26.2039424079262 28.0454002686369,-26.2042245641798 28.0452437108704,-26.2042423808292 28.0450872846166,-26.2042601593546 28.0450478307772,-26.2039780348711 28.045008426255,-26.2036961581941</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1772907</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000329200000</SimpleData>
+		<SimpleData name="ERF_NO">3292</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.035905287396002</SimpleData>
+		<SimpleData name="Y">-26.192113200809001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1772907</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0358171611882,-26.1920514401156 28.035973423051,-26.1920339729369 28.0359934294354,-26.1921749430454 28.035837142914,-26.1921924419943 28.0358171611882,-26.1920514401156</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1772949</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000091800000</SimpleData>
+		<SimpleData name="ERF_NO">918</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.049188148060999</SimpleData>
+		<SimpleData name="Y">-26.202130510069999</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">18295</SimpleData>
+		<SimpleData name="SUBURB">Hillbrow</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1772949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0490895560637,-26.2019984424558 28.0492465330273,-26.2019802509197 28.0492867430653,-26.2022625660235 28.0491297661017,-26.2022807829757 28.0491096939609,-26.2021398192212 28.0490895560637,-26.2019984424558</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1774548</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000527900000</SimpleData>
+		<SimpleData name="ERF_NO">5279</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.045135176159999</SimpleData>
+		<SimpleData name="Y">-26.204597954566001</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1774548</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0449591747122,-26.2044748487095 28.0451154283554,-26.20445703206 28.0452716491204,-26.2044391899946 28.0452913924792,-26.2045801283331 28.0453111604967,-26.2047210666716 28.0451549232926,-26.204738876967 28.0449987271862,-26.2047567253865 28.0449789591687,-26.204615787048 28.0449591747122,-26.2044748487095</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1828143</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000013500000</SimpleData>
+		<SimpleData name="ERF_NO">135</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.044637646430999</SimpleData>
+		<SimpleData name="Y">-26.205012963466000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1828143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0445496274198,-26.2049515330381 28.0447056426961,-26.2049335067063 28.044725640861,-26.2050745022309 28.044569584487,-26.2050923188803 28.0445496274198,-26.2049515330381</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1872464</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000098300000</SimpleData>
+		<SimpleData name="ERF_NO">983</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.043137704766000</SimpleData>
+		<SimpleData name="Y">-26.206092960631000</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1872464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0430487047336,-26.2060243761816 28.0432048926204,-26.2060065341161 28.0432267237449,-26.206161533883 28.0430704865407,-26.2061793759485 28.0430487047336,-26.2060243761816</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1878856</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000020800000</SimpleData>
+		<SimpleData name="ERF_NO">208</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.041336880469000</SimpleData>
+		<SimpleData name="Y">-26.207179605358998</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1878856</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0411707430747,-26.207127006933 28.041326922742,-26.2071091585135 28.0414832257025,-26.2070912846779 28.0415029855004,-26.2072322230164 28.0411905521899,-26.2072679135014 28.0411707430747,-26.207127006933</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1896685</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000153900000</SimpleData>
+		<SimpleData name="ERF_NO">1539</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.043813519211000</SimpleData>
+		<SimpleData name="Y">-26.200111909352000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1896685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.043715581474,-26.1999795059988 28.0438720323864,-26.1999623183965 28.0439114122499,-26.2002440362232 28.0437551750457,-26.2002618465187 28.043715581474,-26.1999795059988</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1905262</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000133400000</SimpleData>
+		<SimpleData name="ERF_NO">1334</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.047607411487000</SimpleData>
+		<SimpleData name="Y">-26.200381610573000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1905262</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0475194905238,-26.2003199412497 28.0476755386783,-26.2003020991842 28.0476953642326,-26.2004432853292 28.0475392421022,-26.2004610956246 28.0475194905238,-26.2003199412497</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1907608</SimpleData>
+		<SimpleData name="SG_CODE">T0IR03100000484800000</SimpleData>
+		<SimpleData name="ERF_NO">4848</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">JOHANNESBURG</SimpleData>
+		<SimpleData name="X">28.043605437608001</SimpleData>
+		<SimpleData name="Y">-26.201054681492000</SimpleData>
+		<SimpleData name="SGTOWN">Johannesburg</SimpleData>
+		<SimpleData name="AG_SUB_ID">10978</SimpleData>
+		<SimpleData name="SUBURB">Johannesburg</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1907608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0434878013077,-26.2007819859348 28.0436439891945,-26.2007640676212 28.0436636750165,-26.2009050059597 28.0436833937166,-26.2010459442982 28.0437030795386,-26.2011868762827 28.0437227735801,-26.2013278336833 28.0435673007941,-26.2013456884568 28.0435474259225,-26.2012047564723 28.0435275510509,-26.2010638499038 28.0435076761793,-26.2009229115653 28.0434878013077,-26.2007819859348</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1909879</SimpleData>
+		<SimpleData name="SG_CODE">T0IR01330000013300001</SimpleData>
+		<SimpleData name="ERF_NO">133</SimpleData>
+		<SimpleData name="PORTION">00001</SimpleData>
+		<SimpleData name="MIN_REGION">CIRY AND SUBURBAN</SimpleData>
+		<SimpleData name="X">28.053898603524999</SimpleData>
+		<SimpleData name="Y">-26.205212685883001</SimpleData>
+		<SimpleData name="SGTOWN">City and Suburban</SimpleData>
+		<SimpleData name="AG_SUB_ID">13945</SimpleData>
+		<SimpleData name="SUBURB">City and Suburban</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1909879</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0538241154292,-26.2050780350615 28.0539334847599,-26.20506550495 28.0539730947708,-26.205347349857 28.053863709001,-26.2053598481984 28.0538241154292,-26.2050780350615</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Test_Property">
+		<SimpleData name="AG_CAD_ID">1910379</SimpleData>
+		<SimpleData name="SG_CODE">T0IR04220000098700000</SimpleData>
+		<SimpleData name="ERF_NO">987</SimpleData>
+		<SimpleData name="PORTION">00000</SimpleData>
+		<SimpleData name="MIN_REGION">MARSHALLS TOWN</SimpleData>
+		<SimpleData name="X">28.043003294479000</SimpleData>
+		<SimpleData name="Y">-26.206265818930000</SimpleData>
+		<SimpleData name="SGTOWN">Marshalls Town</SimpleData>
+		<SimpleData name="AG_SUB_ID">16150</SimpleData>
+		<SimpleData name="SUBURB">Marshalls Town</SimpleData>
+		<SimpleData name="TOWN">Johannesburg</SimpleData>
+		<SimpleData name="Book1_csv_">1910379</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>28.0429142986539,-26.206197224368 28.0430704865407,-26.2061793759485 28.0430923012261,-26.2063344074854 28.0429360804611,-26.2063522559049 28.0429142986539,-26.206197224368</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
